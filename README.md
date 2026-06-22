@@ -58,8 +58,7 @@ Il progetto implementa l'architettura MVVM (Model-View-ViewModel) per garantire 
 ## 🚀 Come lanciare il progetto
 
 1. Clonare il repository:
-    Bash
-
+    ```bash
     git clone [https://github.com/emanuele400tt/note-app.git](https://github.com/emanuele400tt/note-app.git)
 
 2. Aprire il progetto in Android Studio.
