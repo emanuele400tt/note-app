@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EzNote</string>
+    <string name="icon_notification">Notification Icon</string>
+    <string name="note_added">Nota aggiunta!</string>
+    <string name="delete_icon">Icona eliminazione</string>
+    <string name="note_deleted">Nota eliminata</string>
+</resources>
