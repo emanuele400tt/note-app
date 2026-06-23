@@ -111,7 +111,6 @@ fun NoteDetailScreen(
                         description = newDescription
                     )
                     viewModel.updateNote(updatedNote)
-                    viewModel.getNoteById(note.id.toString())
                     showEditDialog = false
                 }
             )
