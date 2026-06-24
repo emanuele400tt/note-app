@@ -27,6 +27,17 @@ This project implements the **MVVM (Model-View-ViewModel)** architecture to ensu
 
 4. Run the app on an emulator or a physical device.
 
+## 📌 Project Status
+
+> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Future changes by external API providers (e.g., weather services) may affect data fetching. Feel free to explore the code or test the app via the releases!
+
+---
+
+## 🚀 Download and Installation
+1. Download the `app-release.apk` file to your smartphone.
+2. Tap the downloaded file to start the installation. 
+3. *Note:* Since this app is downloaded outside of the Google Play Store, your device might ask for permission to "install unknown apps". Confirm to proceed.
+   
 ## App Preview
 ## 📱 Screenshot
 
@@ -74,3 +85,14 @@ Il progetto implementa l'architettura MVVM (Model-View-ViewModel) per garantire 
 3. Attendere la sincronizzazione di Gradle.
 
 4. Avviare l'app su un emulatore o un dispositivo fisico.
+
+## 📌 Stato del Progetto
+
+> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Eventuali modifiche future da parte dei provider delle API esterne (es. i servizi meteo) potrebbero influire sul caricamento dei dati. Sentiti libero di esplorare il codice o testare l'app tramite le release!
+
+---
+
+## 🚀 Download e Installazione
+1. Scarica il file `app-release.apk` sul tuo smartphone.
+2. Fai tap sul file scaricato per avviare l'installazione. 
+3. *Nota:* Essendo un'app scaricata al di fuori del Google Play Store, il tuo dispositivo potrebbe chiederti l'autorizzazione per "installare app da fonti sconosciute". Conferma per procedere.
