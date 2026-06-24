@@ -34,7 +34,6 @@ This project implements the **MVVM (Model-View-ViewModel)** architecture to ensu
 | :---: | :---: | :---: | 
 | <img src="screenshots/Screenshot_20260623-133916.png" width="250"/> | <img src="screenshots/Screenshot_20260623-133930.png" width="250"/> | <img src="screenshots/Screenshot_20260623-133944.png" width="250"/> 
 | Note details | Note editing | Note deleted |
-| :---: | :---: | :---: | 
 | <img src="screenshots/Screenshot_20260623-133951.png" width="250"/> | <img src="screenshots/Screenshot_20260623-133955.png" width="250"/> | <img src="screenshots/Screenshot_20260623-133916 (Copy).png" width="250"/> | 
 
 ## Versione Italiana
