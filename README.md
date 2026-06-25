@@ -20,7 +20,7 @@ This project implements the **MVVM (Model-View-ViewModel)** architecture to ensu
 ## 🚀 How to run the project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/emanuele400tt/note-app.git](https://github.com/emanuele400tt/note-app.git)
+   git clone https://github.com/emanuele400tt/note-app.git
 2. Open the project in Android Studio.
 
 3. Allow Gradle to sync the dependencies.
@@ -29,7 +29,7 @@ This project implements the **MVVM (Model-View-ViewModel)** architecture to ensu
 
 ## 📌 Project Status
 
-> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Future changes by external API providers (e.g., weather services) may affect data fetching. Feel free to explore the code or test the app via the releases!
+> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Feel free to explore the code or test the app via the releases!
 
 ---
 
@@ -52,33 +52,33 @@ This project implements the **MVVM (Model-View-ViewModel)** architecture to ensu
 Un'applicazione Android moderna e "offline-first" per la gestione delle note quotidiane. Sviluppata utilizzando esclusivamente i più recenti standard di sviluppo Android, per dimostrare l'uso di interfacce reattive e un approccio architetturale pulito.
 ## ✨ Funzionalità Principali
 
-* **Operazioni CRUD: Creazione, lettura, aggiornamento ed eliminazione delle note.
+* **Operazioni CRUD:** Creazione, lettura, aggiornamento ed eliminazione delle note.
 
-* **Offline-First: I dati vengono salvati localmente sul dispositivo in modo sicuro, garantendo il funzionamento dell'app anche senza connessione internet.
+* **Offline-First:** I dati vengono salvati localmente sul dispositivo in modo sicuro, garantendo il funzionamento dell'app anche senza connessione internet.
 
-* **Interfaccia Reattiva: La UI si aggiorna automaticamente in tempo reale in base alle modifiche dei dati sottostanti, offrendo un'esperienza utente fluida.
+* **Interfaccia Reattiva:** La UI si aggiorna automaticamente in tempo reale in base alle modifiche dei dati sottostanti, offrendo un'esperienza utente fluida.
 
-* **Design Moderno: Costruita interamente senza l'uso di XML, sfruttando un approccio UI dichiarativo.
+* **Design Moderno:** Costruita interamente senza l'uso di XML, sfruttando un approccio UI dichiarativo.
 
 ## 🛠️ Stack Tecnologico e Architettura
 
 Il progetto implementa l'architettura MVVM (Model-View-ViewModel) per garantire una netta separazione delle responsabilità e un codice facilmente manutenibile.
 
-* **Linguaggio: Kotlin
+* **Linguaggio:** Kotlin
 
-* **UI Toolkit: Jetpack Compose (UI Dichiarativa)
+* **UI Toolkit:** Jetpack Compose (UI Dichiarativa)
 
-* **Database Locale: Room
+* **Database Locale:** Room
 
-* **Dependency Injection: Dagger Hilt
+* **Dependency Injection:** Dagger Hilt
 
-* **Programmazione Asincrona: Kotlin Coroutines & Flow
+* **Programmazione Asincrona:** Kotlin Coroutines & Flow
 
 ## 🚀 Come lanciare il progetto
 
 1. Clonare il repository:
     ```bash
-    git clone [https://github.com/emanuele400tt/note-app.git](https://github.com/emanuele400tt/note-app.git)
+    git clone https://github.com/emanuele400tt/note-app.git
 
 2. Aprire il progetto in Android Studio.
 
@@ -88,7 +88,7 @@ Il progetto implementa l'architettura MVVM (Model-View-ViewModel) per garantire 
 
 ## 📌 Stato del Progetto
 
-> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Eventuali modifiche future da parte dei provider delle API esterne (es. i servizi meteo) potrebbero influire sul caricamento dei dati. Sentiti libero di esplorare il codice o testare l'app tramite le release!
+> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Sentiti libero di esplorare il codice o testare l'app tramite le release!
 
 ---
 
